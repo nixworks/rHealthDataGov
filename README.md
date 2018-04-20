@@ -1,7 +1,7 @@
 rHealthDataGov
 ==============
 
-This package provides an R interface to the [HealthData.gov data API](http://www.healthdata.gov/data-api).
+This package provides an R interface to the [HealthData.gov data API](http://www.healthdata.gov).
 
 **Note to users:** The HealthData.gov Data API is currently down.  See this [issue](https://github.com/rOpenHealth/rHealthDataGov/issues/3) for updates.
 
